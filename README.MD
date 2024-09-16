@@ -27,7 +27,7 @@ The following SQL concepts are covered in the screenshots within the `SQL TASK.p
 
 You can access the repository, including the `SQL TASK.pdf` file, by visiting the following link:
 
-- [GitHub Repository URL](https://github.com/your-username/sqlbolt-exercises) (Replace with your actual URL)
+- [GitHub Repository URL] (https://github.com/bharat1608/MY-SQL-TASK-1/blob/main/SQL%20TASK.pdf)
 
 ## How to Contribute
 
